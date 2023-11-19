@@ -2,10 +2,9 @@
 change button color on hover */
 
 button {
-    color: #FF0000;
-
+    // color: #FF0000;
     /* button hover styles */
-        &:hover {
-            color: #00FF00;
-        }
+    &:hover {
+        color: #00FF00;
+    }
 }
